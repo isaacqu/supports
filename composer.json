@@ -1,10 +1,10 @@
 {
-    "name": "yansongda/supports",
+    "name": "isaacqu/supports",
     "description": "common components",
     "keywords": ["support", "array", "collection", "config", "http", "guzzle"],
     "support": {
-        "issues": "https://github.com/yansongda/supports/issues",
-        "source": "https://github.com/yansongda/supports"
+        "issues": "https://github.com/isaacqu/supports/issues",
+        "source": "https://github.com/isaacqu/supports"
     },
     "authors": [
         {
